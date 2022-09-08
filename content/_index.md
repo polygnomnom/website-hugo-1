@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: ✍️ Willkommen!
 type: book # Do not modify.
 toc: false
 
@@ -8,8 +8,8 @@ cover:
   caption: NASA
 ---
 
-Welcome to the _Notes_ template!
+Hier findest du unsere Reise - und Kochnotizen. Bunt gemischt und voller Eindrücke aus allen Ecken Europas:)
 
-## Example notebook
+## Schweden
 
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Hier geht es nach Schweden!" cta_link="machine-learning" >}}
