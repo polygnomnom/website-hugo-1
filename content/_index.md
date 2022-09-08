@@ -12,4 +12,4 @@ Hier findest du unsere Reise - und Kochnotizen. Bunt gemischt und voller Eindrü
 
 ## Schweden
 
-{{< cta cta_text="👉 Hier geht es nach Schweden!" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Hier geht es nach Schweden!" cta_link="sweden" >}}
